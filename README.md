@@ -8,8 +8,6 @@ BS IT Student <br>| Learning Full-Stack Web Development & AI/ML <br>| Python •
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sitara_001)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ch.tara001@gmail.com)
 
-# 💫 About Me:
-BS IT Student <br>| Learning Full-Stack Web Development & AI/ML <br>| Python • JavaScript • C++ <br>| Building projects and improving every day.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ch_sitara22)
