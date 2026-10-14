@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS CS Student <br>| Learning Full-Stack Web Development & AI/ML <br>| Python • JavaScript • C++ <br>| Building projects and improving every day.
+BS CS Student <br>| Learning Full-Stack Development & AI/ML <br>| Python • JavaScript • C++ •C#  <br>| Building projects and improving every day.
 
 
 ## 🌐 Socials:
